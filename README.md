@@ -1,6 +1,3 @@
-#HELLO
 # 3CHIF_git
 
-Felix
-Kilian BEST BOIIIII
-Hallo
+0w0
